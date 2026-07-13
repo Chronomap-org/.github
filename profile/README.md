@@ -6,7 +6,7 @@ project, split into a few focused repos as it grew:
 | Repo | What it is |
 |---|---|
 | [`Chronomap`](https://github.com/chronomap-org/chronomap) | The core library — a thread-safe, time-versioned key-value store. |
-| `chronomap-examples` | Runnable, standalone examples (config store, session store, audit log, etc.) — planned |
+| [`chronomap-examples`](https://github.com/chronomap-org/chronomap-examples) | Runnable, standalone examples (config store, session store, audit log, etc.) — planned |
 | `chronomap-benchmarks` | Reproducible performance benchmarks with real numbers, not README claims — planned |
 
 No pressure, no roadmap theater — this is a small project maintained in
